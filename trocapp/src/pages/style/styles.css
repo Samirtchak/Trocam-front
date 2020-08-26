@@ -42,6 +42,12 @@
     border: solid black;
 }
 
+.button:hover {
+    cursor: pointer;
+}
+
+
+
 
 
 
