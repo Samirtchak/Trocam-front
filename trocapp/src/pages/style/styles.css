@@ -1,0 +1,48 @@
+.form {
+    display: table;
+    font-style: italic;
+    font-family: 'Gabriela';
+    font-size: larger;
+    font-weight: bold;
+    width:80%;
+    margin-top: 50px;
+
+}
+
+.label {
+    width:50%;
+    display: table-cell;
+    padding-right:20px;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+
+.formItem {
+    width:50%;
+    display: table-cell;
+    float: left;
+    vertical-align: text-bottom;
+
+}
+
+.row {
+    display: table-row;      
+}
+
+.btn {
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(78, 14, 14);
+    width: 20%;
+    color: white;
+    border-radius: 25px;
+    border: solid black;
+}
+
+
+
+
+

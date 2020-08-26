@@ -1,0 +1,26 @@
+ li {
+    margin-left:auto;
+    display: inline;
+
+}
+
+a {
+    display: inline;
+    margin-left:auto;
+    margin-right: 20px;
+    color:white;
+    text-decoration: none;
+    font-size: large;
+}
+
+
+ul {
+    background-color: rgb(78, 14, 14);
+    margin: 0;
+    padding: 0;
+  
+}
+
+
+
+
